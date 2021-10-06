@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<projects>
+	<project>
+		<name>Tea shop</name>
+		<team>
+			<name>Tea team</name>
+			<code>TT</code>
+			<client>Tea House of America</client>
+			<manager>Krzystof Krawczyk</manager>
+			<teamMembers>
+				<member>
+					<name>Janusz Nosacz</name>
+					<reservation>50%</reservation>
+				</member>
+				<member>
+					<name>Joanna Ciemna</name>
+					<reservation>100%</reservation>
+				</member>
+				<member>
+					<name>Lech Tusk</name>
+					<reservation>100%</reservation>
+				</member>
+				<member>
+					<name>Grażyna Boska</name>
+					<reservation>100%</reservation>
+				</member>
+			</teamMembers>
+			<methodology>SCRUM</methodology>
+			<MPK>TT-1234</MPK>
+			<technologies>
+				<technology>
+					<name>JAVA</name>
+					<percentage>70%</percentage>
+					<frameworks>
+						<framework>
+							<name>SPRING-BOOT</name>
+							<name>HIBERNATE</name>
+						</framework>
+					</frameworks>
+					<tools>
+						<name>MYSQL</name>
+						<name>DOCKER</name>
+						<name>XML</name>
+					</tools>
+				</technology>
+				<technology>
+					<name>REACT</name>
+					<percentage>30%</percentage>
+				</technology>
+			</technologies>
+			<fees>
+				<hourly>120 PLN</hourly>
+				<serviceFee>
+					<monthly>20000 PLN</monthly>
+				</serviceFee>
+			</fees>
+		</team>
+	</project>
+	<project>
+		<name>Net Neo</name>
+		<team>
+			<name>Bryada NN</name>
+			<code>NN</code>
+			<client>Net Neo SP. S.A</client>
+			<manager>Krzystof Krawczyk</manager>
+			<teamMembers>
+				<member>
+					<name>Jan Anderson</name>
+					<reservation>80%</reservation>
+				</member>
+				<member>
+					<name>Borys Szopa</name>
+					<reservation>80%</reservation>
+				</member>
+			</teamMembers>
+			<methodology>SCRUM</methodology>
+			<MPK>NN-435</MPK>
+			<technologies>
+				<technology>
+					<name>JAVA</name>
+					<percentage>100%</percentage>
+					<frameworks>
+						<framework>
+							<name>SPRING</name>
+							<name>QUERY_DSL</name>
+						</framework>
+					</frameworks>
+					<tools>
+						<name>POSTGRESQL</name>
+						<name>DOCKER</name>
+						<name>XML</name>
+					</tools>
+				</technology>
+			</technologies>
+			<fees>
+				<hourly>220 PLN</hourly>
+				<serviceFee>
+					<monthly>10000 PLN</monthly>
+				</serviceFee>
+			</fees>
+		</team>
+	</project>
+	<project>
+		<name>Omnishop</name>
+		<team>
+			<name>Omni</name>
+			<code>OS</code>
+			<manager>Mariusz Kicuch</manager>
+			<teamMembers>
+				<member>
+					<name>Jan Anderson</name>
+					<reservation>20%</reservation>
+				</member>
+				<member>
+					<name>Borys Szopa</name>
+					<reservation>20%</reservation>
+				</member>
+				<member>
+					<name>Janusz Nosacz</name>
+					<reservation>50%</reservation>
+				</member>
+				<member>
+					<name>Andrzej Matrix</name>
+					<reservation>100%</reservation>
+				</member>
+				<member>
+					<name>Marzena Kowalska</name>
+					<reservation>100%</reservation>
+				</member>
+			</teamMembers>
+			<methodology>WATERFALL</methodology>
+			<MPK>OS-11</MPK>
+			<technologies>
+				<technology>
+					<name>JAVA</name>
+					<percentage>100%</percentage>
+					<frameworks>
+						<framework>
+							<name>SPRING-BOOT</name>
+							<name>HIBERNATE</name>
+						</framework>
+					</frameworks>
+					<tools>
+						<name>MONGO_DB</name>
+						<name>AWS</name>
+						<name>DOCKER</name>
+						<name>MULE ESB</name>
+					</tools>
+				</technology>
+			</technologies>
+			<fees>
+				<hourly>110 PLN</hourly>
+				<serviceFee>
+					<monthly>45000 PLN</monthly>
+				</serviceFee>
+			</fees>
+		</team>
+	</project>
+</projects>

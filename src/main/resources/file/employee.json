@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Janusz",
+    "surname": "Nosacz",
+    "empolyeeType": "DEVELOPER",
+    "salary": {
+      "brutto": 5000,
+      "contractType": "CONTRACT"
+    },
+    "activeInAD": true
+  },
+  {
+    "name": "Krzysztof",
+    "surname": "Krawczyk",
+    "empolyeeType": "PROJECT_MANAGER",
+    "salary": {
+      "brutto": 4000,
+      "contractType": "CONTRACT"
+    },
+    "activeInAD": true
+  },
+  {
+    "name": "Joanna",
+    "surname": "Ciemna",
+    "salary": {
+    "netto": 5000,
+    "contractType": "B2B"
+  },
+    "empolyeeType": "TESTER",
+    "activeInAD": true
+  },
+  {
+    "name": "Lech",
+    "surname": "Tusk",
+    "salary": {
+      "netto": 6000,
+      "contractType": "B2B"
+    },
+    "empolyeeType": "DEVELOPER",
+    "activeInAD": true
+  },
+  {
+    "name": "Grażyna",
+    "surname": "Boska",
+    "salary": {
+      "netto": 3000,
+      "contractType": null
+    },
+    "empolyeeType": "INTERN",
+    "activeInAD": true
+  },
+  {
+    "name": "Mieczysław",
+    "surname": "Mgłaa",
+    "salary": {
+      "netto": 3000,
+      "contractType": null
+    },
+    "empolyeeType": "INTERN",
+    "activeInAD": true
+  },
+  {
+    "name": "Jan",
+    "surname": "Anderson",
+    "salary": {
+      "netto": 7500,
+      "contractType": "B2B"
+    },
+    "empolyeeType": "DEVELOPER",
+    "activeInAD": true
+  },
+  {
+    "name": "Marzena",
+    "surname": "Kowalska",
+    "salary": {
+      "netto": 3000,
+      "contractType": "CONTRACT"
+    },
+    "empolyeeType": "DEVELOPER",
+    "activeInAD": true
+  },
+  {
+    "name": "Władysław",
+    "surname": "Nowak",
+    "salary": {
+      "netto": 6000,
+      "contractType": null
+    },
+    "empolyeeType": "DEVELOPER",
+    "activeInAD": false
+  },
+  {
+    "name": "Mariusz",
+    "surname": "Kicuch",
+    "salary": {
+      "netto": 12000,
+      "contractType": "B2B"
+    },
+    "empolyeeType": "PROJECT_MANAGER",
+    "activeInAD": true
+  },
+  {
+    "name": "Andrzej",
+    "surname": "Matrix",
+    "salary": {
+      "netto": 6000,
+      "contractType": "B2B"
+    },
+    "empolyeeType": "DEVELOPER",
+    "activeInAD": true
+  },
+  {
+    "name": "Antoni",
+    "surname": "Skrzydło",
+    "salary": {
+      "netto": 6000,
+      "contractType": null
+    },
+    "empolyeeType": "DEVELOPER",
+    "activeInAD": false
+  },
+  {
+    "name": "Borys",
+    "surname": "Szopa",
+    "salary": {
+      "netto": 6000,
+      "contractType": "CONTRACT"
+    },
+    "empolyeeType": "TESTER",
+    "activeInAD": true
+  },
+  {
+    "name": "Angelika",
+    "surname": "Szopa",
+    "salary": {
+      "netto": 6000,
+      "contractType": "CONTRACT"
+    },
+    "empolyeeType": "OFFICE_MANAGEMENT",
+    "activeInAD": true
+  },
+  {
+    "name": "Łukasz",
+    "surname": "Rabarbar",
+    "salary": {
+      "netto": 10000,
+      "contractType": "CONTRACT"
+    },
+    "empolyeeType": "SALES",
+    "activeInAD": true
+  }
+]

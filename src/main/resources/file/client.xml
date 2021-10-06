@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<clients>
+	<client>
+		<name>Tea House of America</name>
+		<location>US</location>
+		<contact>
+			<email>office@thom.us</email>
+			<phone>+1 1123 456 890</phone>
+		</contact>
+		<address>
+			<street>1th street</street>
+			<streetNumber>11</streetNumber>
+			<zipCode>45698</zipCode>
+			<city>Boise</city>
+		</address>
+	</client>
+	<client>
+		<name>Net Neo</name>
+		<location>PL</location>
+		<contact>
+			<email>biuro@net-neo.pl</email>
+			<phone>+48 987546987</phone>
+		</contact>
+		<address>
+			<street>Poprzeczna</street>
+			<streetNumber>13</streetNumber>
+			<flatNumber>1</flatNumber>
+			<zipCode>87-098</zipCode>
+			<city>Kostomłoty</city>
+		</address>
+	</client>
+</clients>
+
